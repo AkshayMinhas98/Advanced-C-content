@@ -1,0 +1,2 @@
+﻿1.Indexers are used where the class has similar semantic to collections or list or dictionary
+2.They are similar to properties with this keyword
